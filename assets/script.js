@@ -354,19 +354,19 @@ const interactiveObjects = [];
 
 const wishList = [
   {
-    text: "Chúc cậu và gia đình một mùa Trung Thu đoàn viên, tràn ngập niềm vui và hạnh phúc!",
+    text: "Chúc anh và gia đình một mùa Trung Thu đoàn viên, tràn ngập niềm vui và hạnh phúc!",
     img: "./assets/1.jpg",
   },
   {
-    text: "Cầu chúc cho mọi nguyện ước của cậu đêm nay sẽ trở thành hiện thực.",
+    text: "Cầu chúc cho mọi nguyện ước của anh đêm nay sẽ trở thành hiện thực.",
     img: "./assets/2.jpg",
   },
   {
-    text: "Trăng tròn ấm áp, chúc tình cậu và tình yêu của chúng ta mãi bền chặt.",
+    text: "Trăng tròn ấm áp, chúc tình anh và tình yêu của chúng ta mãi bền chặt.",
     img: "./assets/3.jpg",
   },
   {
-    text: "Chúc cậu luôn giữ được tâm hồn trong trẻo, yêu đời như ánh trăng rằm.",
+    text: "Chúc anh luôn giữ được tâm hồn trong trẻo, yêu đời như ánh trăng rằm.",
     img: "./assets/1.jpg",
   },
   {
@@ -374,7 +374,7 @@ const wishList = [
     img: "./assets/2.jpg",
   },
   {
-    text: "Chúc riêng cậu một đêm trăng thật lãng mạn và ngọt ngào.",
+    text: "Chúc riêng anh một đêm trăng thật lãng mạn và ngọt ngào.",
     img: "./assets/3.jpg",
   },
   {
